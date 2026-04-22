@@ -68,7 +68,8 @@ Documentação:
 Os diagramas e documentos estão disponíveis na pasta /docs
 
 Alunos:
-Marina Borel
+Mariana Borel
 Lucas Flores
 Gabriel Guedes
 Marcos Vinicius
+Susana Borges
