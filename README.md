@@ -64,12 +64,6 @@ Tabelas principais:
 * vendas
 * itens_venda
 
-/src
-/docs
-/database
-README.md
-
-
 Documentação:
 Os diagramas e documentos estão disponíveis na pasta /docs
 
