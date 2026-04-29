@@ -1,4 +1,4 @@
-Sistema de Gestão de Vendas
+Sistema de Gestão de Vendas (W.I.P)
 
 Descrição:
 Sistema web para gerenciamento de clientes, produtos e vendas. Permite controle de estoque, registro de transações e geração de relatórios, utilizando arquitetura em camadas, API REST e interface web em Django.
